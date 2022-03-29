@@ -3,6 +3,7 @@
     "type": "library",
     "description": "PagOnlineSDK Imprese PHP SDK for developers",
     "keywords": ["Bulbank Italia", "VanssataPagOnlineSDK Imprese", "PHP SDK"],
+    "license": "MIT",
     "authors": [
         {
             "name": "Ivan Kakarov",
