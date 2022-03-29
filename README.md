@@ -1,5 +1,5 @@
 ## PagOnline Sdk Library
-### This sdk is same as (mattiabasone/PagOnline)[https://github.com/mattiabasone/PagOnline] but whit remove all laravel dependency
+### This sdk is same as [mattiabasone/PagOnline](https://github.com/mattiabasone/PagOnline) but whit remove all laravel dependency
 
 This library can be used with PagOnline Payment Gateway and it can be easily integrated in Laravel.
 
