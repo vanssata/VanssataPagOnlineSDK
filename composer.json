@@ -9,6 +9,7 @@
             "email": "ivan.kakurov@gmail.com"
         }
     ],
+    "version": "v0.0.1",
     "require": {
         "php": ">=7.2",
         "ext-curl": "*",
